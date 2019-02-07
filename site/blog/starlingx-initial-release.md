@@ -72,7 +72,7 @@ Get the first release of StarlingX from:
 * IRC: #starlingx on Freenode
 * Mailing list: [http://lists.starlingx.io](http://lists.starlingx.io/cgi-bin/mailman/listinfo)
 
-You can meet the community in person at the next [OpenStack Open Infrastructure Summit](https://www.openstack.org/summit/berlin-2018/) in Berlin, November 13-15.
+You can meet the community in person at the next [OpenStack Open Infrastructure Summit](https://www.openstack.org/summit/denver-2019/) in Denver, April 29-May 1.
 
 The [edge computing track](https://www.openstack.org/summit/berlin-2018/summit-schedule/#day=2018-11-13&tracks=248) will provide you with presentations and panel discussions to learn more about StarlingX and further edge related topics.
 
