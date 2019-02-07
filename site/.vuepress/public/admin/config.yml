@@ -1,8 +1,9 @@
 backend:
-  name: github
-  repo: StarlingXWeb/starlingx-website
+  name: gerrit
+  repo: openstack-infra/netlify-sandbox
   branch: master # Branch to update (optional; defaults to master)
-publish_mode: editorial_workflow
+  api_root: "https://proxy.gerritpoc.starlingx.io/api/v1"
+#publish_mode: editorial_workflow
 media_folder: "site/.vuepress/public/images"
 public_folder: "/images"
 collections:
