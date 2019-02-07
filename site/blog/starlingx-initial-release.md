@@ -4,10 +4,9 @@ author: glenn-seiler
 date: 2018-10-25T01:32:05.627Z
 category: news
 ---
-
 Today the StarlingX project launched their first release to provide a fully featured cloud for the distributed edge.<!-- more -->
 
-## But what is edge?
+## But what is edge really?
 
 Edge computing emerged to be the latest trend in cloud technologies that is becoming evident by the second to every IT professional as well as to industries leveraging computers and automation for their daily businesses. When it comes to defining the term individuals, open and corporate organizations and standards bodies all have their versions which are overlapping, sometimes aligning but are never the same.
 
@@ -69,9 +68,9 @@ StarlingX is more than just a set of services, it also provides you the build to
 
 Get the first release of StarlingX from:
 
-- Git repositories: [https://git.openstack.org/cgit/?q=stx](https://git.openstack.org/cgit/?q=stx)
-- IRC: #starlingx on Freenode
-- Mailing list: [http://lists.starlingx.io](http://lists.starlingx.io/cgi-bin/mailman/listinfo)
+* Git repositories: <https://git.openstack.org/cgit/?q=stx>
+* IRC: #starlingx on Freenode
+* Mailing list: [http://lists.starlingx.io](http://lists.starlingx.io/cgi-bin/mailman/listinfo)
 
 You can meet the community in person at the next [OpenStack Open Infrastructure Summit](https://www.openstack.org/summit/berlin-2018/) in Berlin, November 13-15.
 
@@ -81,6 +80,6 @@ You can also [participate in working sessions](https://www.openstack.org/summit/
 
 Planning to contribute to StarlingX but don’t know where to start, the StarlingX team can guide you through in person on [their project on-boarding session](https://www.openstack.org/summit/berlin-2018/summit-schedule/events/22851/starlingx-project-onboarding).
 
----
+- - -
 
 Interested in learning more? [Watch the OSF Community Webinar dedicated to StarlingX onboarding](https://www.youtube.com/watch?v=G9uwGnKD6tM&t) recorded on October 24th.
