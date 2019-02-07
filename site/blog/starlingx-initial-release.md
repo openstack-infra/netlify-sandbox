@@ -6,7 +6,7 @@ category: news
 ---
 Today the StarlingX project launched their first release to provide a fully featured cloud for the distributed edge.<!-- more -->
 
-## But what is edge really?
+## But what is edge?
 
 Edge computing emerged to be the latest trend in cloud technologies that is becoming evident by the second to every IT professional as well as to industries leveraging computers and automation for their daily businesses. When it comes to defining the term individuals, open and corporate organizations and standards bodies all have their versions which are overlapping, sometimes aligning but are never the same.
 
