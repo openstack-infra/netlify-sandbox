@@ -74,4 +74,4 @@ Wind River Titanium Cloud is currently based on StarlingX, and we are actively b
 
 #### What is this site powered by?
 
-Netlify CMS and Gerrit gates with Zuul CD!
+Netlify CMS and Gerrit with Zuul CD!
