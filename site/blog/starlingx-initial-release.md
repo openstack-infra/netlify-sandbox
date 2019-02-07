@@ -76,7 +76,7 @@ You can meet the community in person at the next [OpenStack Open Infrastructure 
 
 The [edge computing track](https://www.openstack.org/summit/berlin-2018/summit-schedule/#day=2018-11-13&tracks=248) will provide you with presentations and panel discussions to learn more about StarlingX and further edge related topics.
 
-You can also [participate in working sessions](https://www.openstack.org/summit/berlin-2018/summit-schedule/#day=2018-11-13&recorded=false&track_groups=86) as part of the Forum.
+You can also participate in working sessions as part of the Forum.
 
 Planning to contribute to StarlingX but don’t know where to start, the StarlingX team can guide you through in person on [their project on-boarding session](https://www.openstack.org/summit/berlin-2018/summit-schedule/events/22851/starlingx-project-onboarding).
 
