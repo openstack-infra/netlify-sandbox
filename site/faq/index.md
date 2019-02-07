@@ -14,7 +14,7 @@ title: FAQs
 
 #### Who uses StarlingX?
 
-StarlingX is suitable for a wide range of edge use cases and applications from Telecom, through retail to industrialIoT.
+StarlingX is suitable for a wide range of edge use cases and applications from Telecom, through retail to industrial IoT.
 
 #### What are the use cases for StarlingX?
 
