@@ -9,5 +9,5 @@ module.exports = {
     nav: json.nav,
     footer: footer
   },
-  base: ""
+  base: "../html/"
 };
