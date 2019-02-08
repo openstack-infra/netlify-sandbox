@@ -1,0 +1,6 @@
+- hosts: all
+  roles:
+    - revoke-sudo
+    - role: yarn
+      yarn_command: site:build
+      node_version: 8
