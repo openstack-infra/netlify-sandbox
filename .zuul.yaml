@@ -1,3 +1,16 @@
+- job:
+    name: netlify-sandbox-build-site
+    parent: build-javascript-content
+    success-url: "site/.vuepress/dist"
+    vars:
+      javascript_content_dir: "site/.vuepress/dist"
+      node_version: 8
+    run: playbooks/build-site/run.yaml
+
 - project:
-    templates:
-      - noop-jobs
+    check:
+      jobs:
+        - netlify-sandbox-build-site
+    gate:
+      jobs:
+        - netlify-sandbox-build-site
