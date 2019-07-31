@@ -1,19 +1,3 @@
-# StarlingX website
-This is the public repo to mantain the StarlingX website at starlingx.io.
+# This repo has moved to OpenDev
 
-## Installation instructions
-
-### Install vuepress globally
-```
-npm install -g vuepress
-```
-
-### Install npm packages
-```
-npm install
-```
-
-### Run vuepress ('site' tells it where to look)
-```
-vuepress dev site
-```
+It can now be found at [https://opendev.org/opendev/netlify-sandbox](https://opendev.org/opendev/netlify-sandbox)
